@@ -1,2 +1,16 @@
-
+table{
+    border-collapse: collapse;
+}
+thead{
+    background-color:cadetblue;
+}
+tbody{
+    background-color: #96D4D4;
+}
+th,td{
+    border: 1px solid white;
+    padding: 10px;
+    width: 100vw;
+    text-align: center;
+}
 /* Your CSS Code here. */
